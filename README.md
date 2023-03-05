@@ -24,7 +24,7 @@ Python 3.6 or above should be used, you’ll need to use Jupyter Notebook and in
 
 ## File Descriptions
 
-- Dog_App.ipynb<br> # Trains the dog breed identification model, contains a description of the used architecture, discussion about the results, and possible points for future improvement.
+- Dog_App.ipynb # Trains the dog breed identification model and contains discussion about the results and possible points for future improvement.
 
 - app.ipynb # Develops web app using dash plotly.
 
