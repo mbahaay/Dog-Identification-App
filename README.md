@@ -5,22 +5,22 @@ This project serves as my capstone project for Udacity's Data Scientist Nanodegr
  
 Finally, A web app was developed to allow users to upload new images as input to detect the corresponding dog breed.
 
-For better understanding of the project, please read (https://github.com/mbahaay/Dog-Identification-App/Dog_App.ipynb)
+For better understanding of the project, please read [Dog_App] (https://github.com/mbahaay/Dog-Identification-App/Dog_App.ipynb)
 
 ## Installation
 Python 3.6 or above should be used, you’ll need to use Jupyter Notebook and install the following libraries:
 
 1.	numpy
-2.      sklearn
-3.      glob
-4.      random
-5.      keras
-6.      tensorflow
-7.      OpenCV
-8.      dash
-9.      matplotlib
-10.     base64
-11.     os
+2. sklearn
+3. glob
+4. random
+5. keras
+6. tensorflow
+7. OpenCV
+8. dash
+9. matplotlib
+10. base64
+11. os
 
 ## File Descriptions
 
@@ -48,7 +48,7 @@ Python 3.6 or above should be used, you’ll need to use Jupyter Notebook and in
 
 ## Screenshots of the Web App
 
-![Screenshot 1](https://github.com/mbahaay/Dog-Identification-App/Screenshots/App_Sample.PNG)
+![Screenshot 1](https://github.com/mbahaay/Dog-Identification-App/Screenshots/App_Sample.png)
 
 ## Acknowledgements
 
