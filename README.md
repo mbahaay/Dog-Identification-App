@@ -26,17 +26,17 @@ Python 3.6 or above should be used, you’ll need to use Jupyter Notebook and in
 
 - Dog_App.ipynb<br> # Trains the dog breed identification model, contains a description of the used architecture, discussion about the results, and possible points for future improvement.
 
-- app.ipynb<br> # Develops web app using dash plotly.
+- app.ipynb # Develops web app using dash plotly.
 
-- saved_models<br> # the saved models that attain the best validation loss.
+- saved_models # the saved models that attain the best validation loss.
 
-- haarcascades<br> # saved haarcascades detector.
+- haarcascades # saved haarcascades detector.
 
-- bottleneck_features<br> # saved bottleneck features from pre-trained CNN models.
+- bottleneck_features # saved bottleneck features from pre-trained CNN models.
 
-- extract_bottleneck_features.py<br> # script to extract the bottleneck features from the pre-trained CNN models.
+- extract_bottleneck_features.py # script to extract the bottleneck features from the pre-trained CNN models.
 
-- Dash<br> #  css assets for the Dash app.
+- Dash #  css assets for the Dash app.
 
 - README.md<br>
 
@@ -48,7 +48,7 @@ Python 3.6 or above should be used, you’ll need to use Jupyter Notebook and in
 
 ## Screenshots of the Web App
 
-![Screenshot 1](https://github.com/mbahaay/Dog-Identification-App/tree/main/Screenshots/App_Sample.png)
+![Screenshot 1](https://github.com/mbahaay/Dog-Identification-App/tree/main/Screenshots/App_Sample.PNG)
 
 ## Acknowledgements
 
