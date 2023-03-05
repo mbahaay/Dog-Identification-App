@@ -5,7 +5,7 @@ This project serves as my capstone project for Udacity's Data Scientist Nanodegr
  
 Finally, A web app was developed to allow users to upload new images as input to detect the corresponding dog breed.
 
-For better understanding of the project, please read [Dog_App] (https://github.com/mbahaay/Dog-Identification-App/Dog_App.ipynb)
+For better understanding of the project, please read [Dog_App] (https://github.com/mbahaay/Dog-Identification-App/blob/main/Dog_App.ipynb)
 
 ## Installation
 Python 3.6 or above should be used, you’ll need to use Jupyter Notebook and install the following libraries:
