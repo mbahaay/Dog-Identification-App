@@ -48,7 +48,7 @@ Python 3.6 or above should be used, you’ll need to use Jupyter Notebook and in
 
 ## Screenshots of the Web App
 
-![Screenshot 1](https://github.com/mbahaay/Dog-Identification-App/tree/main/Screenshots/App_Sample.PNG)
+![Screenshot 1](https://github.com/mbahaay/Dog-Identification-App/blob/main/App_Sample.png)
 
 ## Acknowledgements
 
